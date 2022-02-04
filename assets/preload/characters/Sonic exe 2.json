@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NewPhase2Sonic Idle instance"
+		},
+		{
+			"offsets": [
+				37,
+				-131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NewPhase2Sonic Down instance"
+		},
+		{
+			"offsets": [
+				177,
+				-147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NewPhase2Sonic Left instance"
+		},
+		{
+			"offsets": [
+				24,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NewPhase2Sonic Up instance"
+		},
+		{
+			"offsets": [
+				60,
+				-182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NewPhase2Sonic Right instance"
+		},
+		{
+			"offsets": [
+				-38,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Laugh",
+			"indices": [],
+			"name": "NewPhase2Sonic Laugh instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic exe Y.C.R",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "YCR Sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		120
+	],
+	"camera_position": [
+		70,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
